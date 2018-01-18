@@ -1,0 +1,17 @@
+{
+    "name": "sergio/dahua.lat",
+    "description": "Proyecto para ZKAcceso",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zksergio",
+            "email": "33158729+Zksergio@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}
